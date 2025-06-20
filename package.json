@@ -1,0 +1,23 @@
+{
+  "name": "ramp-challenge",
+  "version": "1.0.0",
+  "description": "Ramp Frontend Challenge - Flag Display with Typewriter Effect",
+  "scripts": {
+    "start": "npx parcel index.html --open",
+    "build": "npx parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.0"
+  },
+  "keywords": [
+    "react",
+    "challenge",
+    "typewriter"
+  ],
+  "author": "Ramp Challenge Candidate",
+  "license": "MIT"
+}
